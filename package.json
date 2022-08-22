@@ -62,7 +62,6 @@
     "buffer": "^6.0.3",
     "commander": "^2.15.0",
     "ieee754": "^1.1.13",
-    "iso-url": "^1.1.5",
     "json-text-sequence": "~0.3.0",
     "readable-stream": "^3.6.0"
   },
